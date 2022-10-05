@@ -1,0 +1,7 @@
+/data/
+__pychache__/
+*.pyc
+*.csv
+*.h5
+*.gz
+*.pickle
